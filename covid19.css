@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://www.arup.com/globalassets/images/services/planning/airport-planning/plane-at-an-airport-terminal-airport-planning-hero.jpg?width=1840&quality=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.covid19-rules{
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+    opacity: 0.8;
+    color: black;
+}
