@@ -8,6 +8,11 @@ body{
     background-color: white;
     margin-top: 50px;
     border-radius: 10px;
-    opacity: 0.8;
+    opacity: 0.9;
     color: black;
+    width: 1700px;
+    height: 600px;
+    margin-left: 111px;
+    margin-top: 111px;
+    padding: 50px;
 }

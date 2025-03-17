@@ -3,3 +3,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.tables{
+    display: flex;
+}
+
+.table1{
+    width: 700px;
+    margin-left: 180px;
+    margin-top: 300px;
+}
