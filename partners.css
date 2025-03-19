@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://www.austrian.com/content/dam/aua/images/local_variations/c-171619285-LHGA_KV-Tail_LH_LX_OS_SN_AZ_EW.jpg.transform/lh-dcep-transform-width-1440/img.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.partners{
+    background-color: gainsboro;
+    opacity: 0.9;
+    height: 500px;
+    width: 1500px;
+    margin: 180px;
+    padding: 20px;
+    border-radius: 20px;
+}

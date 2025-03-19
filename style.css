@@ -8,8 +8,24 @@ body{
     display: flex;
 }
 
-.table1{
+.table{
     width: 700px;
-    margin-left: 180px;
-    margin-top: 300px;
+    opacity: 1;
+    margin-top: 50px;
 }
+
+.tables{
+    background-color: white;
+    margin: 200px;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 500px;
+    width: 1500px;
+    border-radius: 20px;
+    opacity: 0.95;
+}
+
+.tables123
